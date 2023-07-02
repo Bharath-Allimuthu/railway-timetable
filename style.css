@@ -1,0 +1,24 @@
+body{
+    font-family: sans-serif;
+    align-items: center;
+    text-decoration: solid;
+    margin: 0;
+    padding: 0;
+}
+table {
+    width: 800px;
+    height: 100px;
+    margin: auto;
+    font-size: 15px;
+    padding: 0;
+    border-collapse: collapse;
+    border-color: rgb(229, 239, 239);
+}
+th{
+    color: aliceblue;
+    text-transform: capitalize;
+    background-color: rgba(46, 135, 190, 0.897)
+}
+td{
+    text-transform: uppercase;
+}
